@@ -1,6 +1,7 @@
 # QR_APP
 WSN Project
-Project Link
+
+Application Link
 https://drive.google.com/drive/folders/1GCaIepHyUlSt9nRk2PGPJAzaWr1oixdJ?usp=sharing
 
 Youtube link
